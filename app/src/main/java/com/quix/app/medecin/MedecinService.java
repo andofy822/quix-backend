@@ -1,7 +1,6 @@
 package com.quix.app.medecin;
 
 
-
 import com.quix.app.consultation;
 import com.quix.app.role;
 import org.springframework.beans.factory.annotation.Autowired;

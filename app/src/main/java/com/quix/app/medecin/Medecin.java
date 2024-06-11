@@ -1,9 +1,10 @@
 package com.quix.app.medecin;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.List;
 import com.quix.app.etablissement.*;
 import com.quix.app.consultation.*;
+import com.quix.app.role.*;
 
 
 @Entity

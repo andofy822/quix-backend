@@ -1,6 +1,8 @@
 package com.quix.app.consultation;
 
-import javax.persistence.*;
+import jakarta.persistence.Entity;
+
+import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity

@@ -8,7 +8,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/docteurs")
-public class MedecinService {
+public class MedecinController {
     @Autowired
     private MedecinService medecinService;
 
